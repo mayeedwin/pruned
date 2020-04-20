@@ -1,0 +1,31 @@
+{
+  "name": "pruned",
+  "version": "0.0.3",
+  "description": "Abreviate Number Counters in K, M, T for a Thousand, Trillion and Trillion",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayeedwin/pruned.git"
+  },
+  "keywords": [
+    "prune",
+    "pruned",
+    "million",
+    "trillion",
+    "abrreviate",
+    "thousand in K",
+    "million in M",
+    "trillion in T",
+    "counters",
+    "maye edwin"
+  ],
+  "author": "Maye Edwin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mayeedwin/pruned/issues"
+  },
+  "homepage": "https://github.com/mayeedwin/pruned#readme"
+}
