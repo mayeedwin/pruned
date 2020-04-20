@@ -1,6 +1,6 @@
 {
   "name": "pruned",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Abreviate Number Counters in K, M, T for a Thousand, Trillion and Trillion",
   "main": "./src/index.js",
   "scripts": {
