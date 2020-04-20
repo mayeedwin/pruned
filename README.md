@@ -1,6 +1,6 @@
 ## Prune Number Counters
 
-Basically, prune a.k.a abbreviate number counters for example 1,250,000 to 1.3M
+Basically, prune a.k.a abbreviate number counters for example **1,250,000** to **1.3M**
 
 ### Install Pruned
 
