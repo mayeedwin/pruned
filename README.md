@@ -7,6 +7,11 @@ Basically, prune a.k.a abbreviate number counters for example **1,250,000** to *
 ```bash
 npm i pruned
 ```
+### Import pruned in your react app
+
+```js
+import pruned from 'pruned';
+```
 
 ### Require the pruned package
 
